@@ -85,5 +85,5 @@ ml-workbench/
 ---
 
 ## 👤 Author
-
-Built as a portfolio project — part of PG Diploma in Big Data Analytics (CDAC Nagpur).
+Vaishali Kawadapure
+Built as a portfolio project — part of PG Diploma in Big Data Analytics (CDAC Chennai).
