@@ -2,7 +2,7 @@
 
 An interactive **Streamlit** application for running Supervised and Unsupervised Machine Learning techniques through a clean, modern UI — train, evaluate, visualize, and export results to Excel in one click.
 
-🔗 **Live App:** [Click here to open](https://your-app-name.streamlit.app) *(update after deploying)*
+ 🔗 **Live App:** [Click here to open](https://mlworkbenchapp-app-iztxjyom6attgsqk6re7ne.streamlit.app/)
 
 ---
 
